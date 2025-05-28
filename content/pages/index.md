@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Arthrofix Cream Price in Uganda
       color: text-dark
       type: TitleBlock
     subtitle: Arthrofix Cream Price in Uganda
